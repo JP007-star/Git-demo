@@ -5,6 +5,7 @@ cd
 ls
 git config --global user.name "JP007-Star"
 git config --global user.email "justice_of_peace@yahoo.com"
+git config --inti.defaultbranch main
 whoami
 dir
 pwd
